@@ -10,6 +10,7 @@ django = "*"
 python-dotenv = "*"
 djangorestframework = "*"
 psycopg2 = "*"
+pendulum = "*"
 
 [requires]
 python_version = "3.7"
